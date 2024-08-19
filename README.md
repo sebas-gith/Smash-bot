@@ -1,4 +1,4 @@
-# <img src="./imagesmd/bot-logo.png" alt="Bot de WhatsApp" style="width: 50px; vertical-align: middle;" /> SMASH Bot de WhatsApp
+# [<img src="./imagesmd/bot-logo.png" alt="Bot de WhatsApp" style="width: 50px; vertical-align: middle;" /> ](https://raw.githubusercontent.com/sebas-gith/Smash-bot/main/Imagesmd/Bot-logo.png)  SMASH Bot de WhatsApp
 
 ## Objetivo Principal
 
