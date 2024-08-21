@@ -1,0 +1,29 @@
+{
+  "name": "smash-bot",
+  "version": "1.0.0",
+  "description": "This is my own bot",
+  "main": "./src/Bot/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/Bot/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas-gith/Smash-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas-gith/Smash-bot/issues"
+  },
+  "homepage": "https://github.com/sebas-gith/Smash-bot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.0",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
